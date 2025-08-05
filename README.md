@@ -6,7 +6,7 @@ A clean, mobile-responsive landing page built using HTML, CSS, and JavaScript. T
 
 ## 🔗 Live Site
 
-[🚀 View Live Website](https://tejaswimadastu.github.io/SCT_WD_2/)
+[🚀 View Live Website]((https://tejaswimadastu.github.io/SCT_WD_1/)
 
 ---
 
@@ -73,4 +73,3 @@ git add README.md
 git commit -m "Updated README without license section"
 git push origin main
 
-Live preview https://tejaswimadastu.github.io/SCT_WD_1/
