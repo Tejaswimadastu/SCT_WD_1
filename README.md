@@ -2,13 +2,10 @@
 
 A clean, mobile-responsive landing page built using HTML, CSS, and JavaScript. This project represents **TejaswiTech**, a digital solutions provider specializing in modern web and mobile development services.
 
----
-
 ## 🔗 Live Site
 
 [🚀 View Live Website]((https://tejaswimadastu.github.io/SCT_WD_1/)
 
----
 
 ## 📁 Project Structure
 
@@ -17,7 +14,6 @@ SCT_WD_2/
 ├── style.css # Styling (with mobile responsiveness)
 └── script.js # JavaScript for scroll behavior and mobile nav
 
----
 
 ## ✨ Features
 
@@ -28,7 +24,6 @@ SCT_WD_2/
 - ✅ About, Services, and Contact sections
 - ✅ Lightweight and fast-loading
 
----
 
 ## 🛠️ Technologies Used
 
@@ -36,7 +31,6 @@ SCT_WD_2/
 - CSS3 (Flexbox, Media Queries, Transitions)
 - JavaScript (DOM, scroll, and toggle events)
 
----
 
 ## 📱 Responsive Design
 
@@ -45,7 +39,6 @@ Fully responsive across:
 - 💻 Tablets
 - 🖥️ Desktops
 
----
 
 ## 🧪 How to Run Locally
 
@@ -64,7 +57,6 @@ Fully responsive across:
 Tejaswi Madastu
 GitHub: https://github.com/Tejaswimadastu
 
----
 
 Now just save it as `README.md`, and push:
 
